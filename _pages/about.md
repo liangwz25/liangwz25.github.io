@@ -39,29 +39,48 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 ### 2025
 <ul>
 	<li>
-		<font color="#225988">Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics</font> <br>
+		<font color="#00008B">Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics</font> <br>
 		Zekun Zhang, Peng Yao, Bin Zhao, Yuanbi Yi, Zhao Liang Chen, Chen Zhao, Ruanhong Cai, <b>Wenzhao Liang </b>, Chenglong Wang, Ding He*<br>
 		<em>Water Research</em>, 2025. (<a href="https://www.sciencedirect.com/science/article/pii/S0043135425021402" target="_blank">Link-33</a>)
 	</li>
 	<li>
-		<font color="#225988">Characterisation of Groundwater Flow in the Deltaic Aquifer‐Aquitard System</font> <br>
+		<font color="#00008B">Characterisation of Groundwater Flow in the Deltaic Aquifer‐Aquitard System</font> <br>
 		Shengchao Yu, Jiu Jimmy Jiao, Xin Luo, Xuejing Wang, Jinchao Zuo, <b>Wenzhao Liang</b>, Meiqing Lu, Hailong Li* <br>
 		<em>Hydrological Processes</em>, 2025.(<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.70255" target="_blank">Link-32</a>)
 	</li>
 </ul>
 
 
-
+### 2025
 
 
 
 
 
 ### Before 2020
-* Liu, Y., ***Liang W.***, Jiao J.J. (2018). "Seasonality of Nutrient Flux and Biogeochemistry in an Intertidal Aquifer." Journal of Geophysical Research: Oceans.
-* Liu, Y., Jiao J.J., ***Liang W.*** (2018). "Using Tidal Fluctuation-Induced Dynamics of Radium Isotopes (224Ra, 223Ra, and 228Ra) to Trace the Hydrodynamics and Geochemical Reactions in a Coastal Groundwater Mixing Zone." Water Resources Research 54(4): 2909-2930.
-* Liu, Y., Jiao J.J., ***Liang W.*** (2017). "Tidal Pumping-Induced Nutrients Dynamics and Biogeochemical Implications in an Intertidal Aquifer." Journal of Geophysical Research: Biogeosciences 122(12): 3322-3342
-* Liu, Y., Jiao, J. J., ***Liang, W***., & Kuang, X. (2017). Hydrogeochemical characteristics in coastal groundwater mixing zone. Applied Geochemistry, 85, 49-60. [pdf]:(https://doi.org/10.1016/j.apgeochem.2017.09.002)
+<ul>
+
+
+	
+	<li>
+		<font color="#00008B">Evaluation of water residence time, submarine groundwater discharge, and maximum new production supported by groundwater borne nutrients in a coastal upwelling shelf system</font> <br>
+		Xin Luo, Jiu Jimmy Jiao*, Yi Liu, Xiaolang Zhang, <b>Wenzhao Liang</b>, Danling Tang <br>
+		<em>Journal of Geophysical Research: Oceans</em>, 2018. (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JC013398" target="_blank">Link-3</a>)
+	</li>
+	
+	<li>
+		<font color="#00008B">Tidal pumping‐induced nutrients dynamics and biogeochemical implications in an intertidal aquifer</font> <br>
+		Yi Liu, Jiu Jimmy Jiao*, <b>Wenzhao Liang</b>, Xin Luo<br>
+		<em>Journal of Geophysical Research: Biogeosciences</em>, 2017. (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JG004017" target="_blank">Link-2</a>)
+	</li>
+	<li>
+		<font color="#00008B">Hydrogeochemical characteristics in coastal groundwater mixing zone</font> <br>
+		Yi Liu, Jiu Jimmy Jiao*, <b>Wenzhao Liang</b>, Xingxing Kuang <br>
+		<em>Applied Geochemistry</em>, 2017.(<a href="https://www.sciencedirect.com/science/article/pii/S0883292717302755" target="_blank">Link-1</a>)
+	</li>
+</ul>
+
+
 
 
 
