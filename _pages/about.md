@@ -25,9 +25,9 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 > If you are a SYSU student interested in doing research with me, please also send me an email.
 
 ## Publications  
-<p><font face="Arial" size="4"><b>2025</b></font></p>
+### 2025
 	<li>
-		<b> Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics </b> <br>
+		Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics<br>
 		Zekun Zhang, Peng Yao, Bin Zhao, Yuanbi Yi, Zhao Liang Chen, Chen Zhao, Ruanhong Cai, <b>Wenzhao Liang </b>, Chenglong Wang, Ding He*<br>
 		<em>Water Research</em>, 2025. (<a href="https://www.sciencedirect.com/science/article/pii/S0043135425021402" target="_blank">Link</a>)[33]</br> 
 	</li>
@@ -53,7 +53,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 
 
-## Pepples 
+## Students
 
 
 
