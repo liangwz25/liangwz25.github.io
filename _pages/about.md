@@ -34,7 +34,6 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 </div>
 <br>
 
-
 ## Publications  
 ### 2025
 <ul>
@@ -56,17 +55,17 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 
 
-### 2020
+### 2021
 <ul>
     <li>
-		<font color="#00008B">The dynamics of dissolved inorganic nitrogen species mediated by fresh submarine groundwater discharge and their impact on phytoplankton community structure</font> <br>
-		Yupeng Liu, Danling Tang*, Shilin Tang, Evgeny Morozov, <b>Wenzhao Liang</b>, Yi Sui<br>
-		<em>Science of the Total Environment</em>, 2020. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969720338110" target="_blank">Link-11</a>)
+		<font color="#00008B">Inorganic carbon and alkalinity biogeochemistry and fluxes in an intertidal beach aquifer: Implications for ocean acidification </font> <br>
+		Yi Liu, Jiu Jimmy Jiao, <b>Wenzhao Liang</b>, Isaac R Santos, Xingxing Kuang, Clare E Robinson<br>
+		<em>Journal of Hydrology</em>, 2020. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969720338110" target="_blank">Link-11</a>)
 	</li>	
 	<li>
-		<font color="#00008B">The dynamics of dissolved inorganic nitrogen species mediated by fresh submarine groundwater discharge and their impact on phytoplankton community structure</font> <br>
-		<b>Wenzhao Liang</b>, Yi Liu, Jiu Jimmy Jiao*, Xin Luo<br>
-		<em>Water Resources Research</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969719348892" target="_blank">Link-10</a>)
+		<font color="#00008B">Control factors on nutrient cycling in the lake water and groundwater of the Badain Jaran Desert, China</font> <br>
+		Xiaolang Zhang, Hailong Li, Jiu Jimmy Jiao, Xin Luo, Jinchao Zuo, Meiqing Lu, Yi Liu, <b>Wenzhao Liang</b>, Xingxing Kuang<br>
+		<em>Journal of Hydrologyh</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0022169421004558" target="_blank">Link-10</a>)
 	</li>	
 </ul>
 </br>
