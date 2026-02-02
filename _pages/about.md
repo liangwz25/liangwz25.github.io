@@ -24,18 +24,29 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 > If you are a SYSU student interested in doing research with me, please also send me an email.
 
+## News
+<div style="height: 240px; overflow: auto;">
+<ul>
+	<li>
+		[01/2026] Join SYSU and start up NEXUS LAB
+	</li>
+</ul>
+</div>
+<br>
+
+
 ## Publications  
 ### 2025
 <ul>
 	<li>
 		Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics<br>
 		Zekun Zhang, Peng Yao, Bin Zhao, Yuanbi Yi, Zhao Liang Chen, Chen Zhao, Ruanhong Cai, <b>Wenzhao Liang </b>, Chenglong Wang, Ding He*<br>
-		<em>Water Research</em>, 2025. (<a href="https://www.sciencedirect.com/science/article/pii/S0043135425021402" target="_blank">Link</a>)[33]
+		<em>Water Research</em>, 2025. (<a href="https://www.sciencedirect.com/science/article/pii/S0043135425021402" target="_blank">Link-33</a>)
 	</li>
 	<li>
 		Characterisation of Groundwater Flow in the Deltaic Aquifer‐Aquitard System <br>
 		Shengchao Yu, Jiu Jimmy Jiao, Xin Luo, Xuejing Wang, Jinchao Zuo, <b>Wenzhao Liang</b>, Meiqing Lu, Hailong Li* <br>
-		<em>Hydrological Processes</em>, 2025.(<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.70255" target="_blank">Link</a>)[33]
+		<em>Hydrological Processes</em>, 2025.(<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.70255" target="_blank">Link-32</a>)
 	</li>
 </ul>
 
