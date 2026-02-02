@@ -10,9 +10,9 @@ redirect_from:
 
   
 ## Biography   
-I am an Associate Professor at the School of Geography and Planning, <font color="#225988">Sun Yat-sen University (SYSU)</font>, where I direct the NEXUS Lab. My research focuses on understanding various environmental processes, e.g. hydrological, biogeochemical, and microbial, in the context of sea-land interactions. We are also investigating how these processes function under extreme events (e.g., typhoons, floods, storm surges) and climate change. This research aims to understand their impacts on sustainability and public health in coastal societies, ultimately providing insights to inform environmental and sustainable policymaking.
+I am an Associate Professor at the <a href="https://gp.sysu.edu.cn/en">School of Geography and Planning, Sun Yat-sen University (SYSU)</a>, where I direct the NEXUS Lab. My research focuses on understanding various environmental processes, e.g. hydrological, biogeochemical, and microbial, in the context of sea-land interactions. We are also investigating how these processes function under extreme events (e.g., typhoons, floods, storm surges) and climate change. This research aims to understand their impacts on sustainability and public health in coastal societies, ultimately providing insights to inform environmental and sustainable policymaking.
 
-Before joining SYSU, I served as a Postdoctoral Research Fellow at the <font color="#225988">Hong Kong University of Science and Technology (HKUST)</font> and at <font color="#225988">Trent University</font> in Canada. I earned my Ph.D. in Hydrology from <font color="#225988">The University of Hong Kong</font> in 2022, M.Sc in Marine Remote Sensing from <font color="#225988">The University of Chinese Academy of Sciences (SCSIO)</font> in 2016, and a B.Sci in Environmental Science from <font color="#225988">Sun Yat-sen University</font> in 2013.
+Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="https://oces.hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a> and at <a href="https://www.trentu.ca/">Trent University</a> in Canada. I earned my Ph.D. in Hydrology from <a href="https://www.earthsciences.hku.hk/">The University of Hong Kong</a> in 2022, M.Sc in Marine Remote Sensing from <a href="http://www.scsio.ac.cn/">The University of Chinese Academy of Sciences (SCSIO)</a> in 2016, and a B.Sci in Environmental Science from <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> in 2013.
 
 ## Main interest  
 1) Hydrological processes driven carbon cycle in land-sea interactions.  
@@ -32,6 +32,11 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <font col
     ...
   </p>
 </div>
+.scroll-box {
+    border: 1px solid #666;
+    overflow: scroll;    
+}
+
 
 * [01/2026] Join SYSU and lunch NEXUS Lab
 
