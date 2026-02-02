@@ -25,7 +25,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 > If you are a SYSU student interested in doing research with me, please also send me an email.
 
 ## News  
-<div style="height: 240px; overflow: auto;">
+<div style="height: 200px; overflow: auto;">
 <ul>
 	<li>
 		[01/2026] Join SYSU and lunch NEXUS Lab.
@@ -42,12 +42,18 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 <div id="publications">
 
-<h2>Selected Publications<h2>
+## Publications
+<p><font face="Arial" size="4"><b>2025</b></font></p>
+	<ul>
+	<li>
+		<a href="https://www.sciencedirect.com/science/article/pii/S0043135425021402" target="_blank">Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics</a><br>
+		Zekun Zhang, Peng Yao, Bin Zhao, Yuanbi Yi, Zhao Liang Chen, Chen Zhao, Ruanhong Cai, <b>Wenzhao Liang </b>, Chenglong Wang, Ding He Lequan Yu.<br>
+		<em>Water Research</em>, 2025.</br>
+	</li>
 
-<!--     <ul>
-		* indicates equal contribution; <sup>†</sup> indicates corresponding authorship.
-	</ul>
--->
+
+
+
 
 
 
