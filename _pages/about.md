@@ -56,28 +56,66 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 
 
+### 2020
+<ul>
+    <li>
+		<font color="#00008B">The dynamics of dissolved inorganic nitrogen species mediated by fresh submarine groundwater discharge and their impact on phytoplankton community structure</font> <br>
+		Yupeng Liu, Danling Tang*, Shilin Tang, Evgeny Morozov, <b>Wenzhao Liang</b>, Yi Sui<br>
+		<em>Science of the Total Environment</em>, 2020. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969720338110" target="_blank">Link-11</a>)
+	</li>	
+	<li>
+		<font color="#00008B">The dynamics of dissolved inorganic nitrogen species mediated by fresh submarine groundwater discharge and their impact on phytoplankton community structure</font> <br>
+		<b>Wenzhao Liang</b>, Yi Liu, Jiu Jimmy Jiao*, Xin Luo<br>
+		<em>Water Resources Research</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969719348892" target="_blank">Link-10</a>)
+	</li>	
+</ul>
+</br>
+
+### 2020
+<ul>
+    <li>
+		<font color="#00008B">The dynamics of dissolved inorganic nitrogen species mediated by fresh submarine groundwater discharge and their impact on phytoplankton community structure</font> <br>
+		Yupeng Liu, Danling Tang*, Shilin Tang, Evgeny Morozov, <b>Wenzhao Liang</b>, Yi Sui<br>
+		<em>Science of the Total Environment</em>, 2020. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969720338110" target="_blank">Link-11</a>)
+	</li>	
+	<li>
+		<font color="#00008B">The dynamics of dissolved inorganic nitrogen species mediated by fresh submarine groundwater discharge and their impact on phytoplankton community structure</font> <br>
+		<b>Wenzhao Liang</b>, Yi Liu, Jiu Jimmy Jiao*, Xin Luo<br>
+		<em>Water Resources Research</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969719348892" target="_blank">Link-10</a>)
+	</li>	
+</ul>
+</br>
 
 ### Before 2020
 <ul>
 	<li>
-		<font color="#00008B">Phytoplankton size structure in the western South China Sea under the influence of a ‘jet-eddy system’</font> <br>
-		<b>Wenzhao Liang</b>, Danling Tang, Xin Luo<br>
-		<em>Journal of Marine Systems</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0924796317303676" target="_blank">Link-6</a>)
+		<font color="#00008B">The dynamics of dissolved inorganic nitrogen species mediated by fresh submarine groundwater discharge and their impact on phytoplankton community structure</font> <br>
+		<b>Wenzhao Liang</b>, Yi Liu, Jiu Jimmy Jiao*, Xin Luo<br>
+		<em>Water Resources Research</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969719348892" target="_blank">Link-9</a>)
+	</li>	
+	<li>
+		<font color="#00008B">Spatial Characteristics Reveal the Reactive Transport of Radium Isotopes (224Ra, 223Ra, and 228Ra) in an Intertidal Aquifer</font> <br>
+		Yi Liu, Jiu Jimmy Jiao*, Rong Mao, Xin Luo, <b>Wenzhao Liang</b>, Clare E Robinson<br>
+		<em>Water Resources Research</em>, 2019. (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR024849" target="_blank">Link-8</a>)
 	</li>
-	
+	<li>
+		<font color="#00008B">Tidal induced dynamics and geochemical reactions of trace metals (Fe, Mn, and Sr) in the salinity transition zone of an intertidal aquifer</font> <br>
+		Yi Liu, Christelle Not, Jiu Jimmy Jiao*, <b>Wenzhao Liang</b>, Meiqing Lu<br>
+		<em>Science of the Total Environment</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969719302347" target="_blank">Link-7</a>)
+	</li>
 	<li>
 		<font color="#00008B">Phytoplankton size structure in the western South China Sea under the influence of a ‘jet-eddy system’</font> <br>
-		<b>Wenzhao Liang</b>, Danling Tang, Xin Luo<br>
+		<b>Wenzhao Liang</b>, Danling Tang*, Xin Luo<br>
 		<em>Journal of Marine Systems</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0924796317303676" target="_blank">Link-6</a>)
 	</li>
 	<li>
 		<font color="#00008B">Seasonality of nutrient flux and biogeochemistry in an intertidal aquifer</font> <br>
-		Yi Liu, <b>Wenzhao Liang</b>, Jiu Jimmy Jiao<br>
+		Yi Liu, <b>Wenzhao Liang</b>, Jiu Jimmy Jiao*<br>
 		<em>Journal of Geophysical Research: Oceans</em>, 2018. (<a href="https://link.springer.com/article/10.1007/s12237-017-0335-x" target="_blank">Link-5</a>)
 	</li>
 	<li>
 		<font color="#00008B">Tidal fluctuation influenced physicochemical parameter dynamics in coastal groundwater mixing zone</font> <br>
-		Yi Liu, Jiu Jimmy Jiao, <b>Wenzhao Liang</b><br>
+		Yi Liu, Jiu Jimmy Jiao*, <b>Wenzhao Liang</b><br>
 		<em>Estuaries and Coasts</em>, 2018. (<a href="https://link.springer.com/article/10.1007/s12237-017-0335-x" target="_blank">Link-4</a>)
 	</li>
 	<li>
@@ -96,7 +134,6 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 		<em>Applied Geochemistry</em>, 2017.(<a href="https://www.sciencedirect.com/science/article/pii/S0883292717302755" target="_blank">Link-1</a>)
 	</li>
 </ul>
-
 
 
 
