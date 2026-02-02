@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEXUS LAB @ SYSU**  **|**  a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions
+ **NEXUS LAB @ SYSU** a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions
 
   
 ## Biography   
