@@ -38,20 +38,20 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 	</li>
 </ul>
 <br>
-
+</div>
 
 ## Publications
 <p><font face="Arial" size="4"><b>2025</b></font></p>
 	<ul>
 	<li>
-		[33] Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics <br>
-		Zekun Zhang, Peng Yao, Bin Zhao, Yuanbi Yi, Zhao Liang Chen, Chen Zhao, Ruanhong Cai, <b>Wenzhao Liang </b>, Chenglong Wang, Ding He<br>
-		<em>Water Research</em>, 2025. (<a href="https://www.sciencedirect.com/science/article/pii/S0043135425021402" target="_blank">Link</a>)
+		Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics <br>
+		Zekun Zhang, Peng Yao, Bin Zhao, Yuanbi Yi, Zhao Liang Chen, Chen Zhao, Ruanhong Cai, <b>Wenzhao Liang </b>, Chenglong Wang, Ding He*<br>
+		<em>Water Research</em>, 2025. (<a href="https://www.sciencedirect.com/science/article/pii/S0043135425021402" target="_blank">Link</a>)[33] 
 	</li>
 	<li>
-		[32] Characterisation of Groundwater Flow in the Deltaic Aquifer‐Aquitard System <br>
-		Shengchao Yu, Jiu Jimmy Jiao, Xin Luo, Xuejing Wang, Jinchao Zuo, <b>Wenzhao Liang</b>, Meiqing Lu, Hailong Li <br>
-		<em>Hydrological Processes</em>, 2025.(<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.70255" target="_blank">Link</a>)
+		Characterisation of Groundwater Flow in the Deltaic Aquifer‐Aquitard System <br>
+		Shengchao Yu, Jiu Jimmy Jiao, Xin Luo, Xuejing Wang, Jinchao Zuo, <b>Wenzhao Liang</b>, Meiqing Lu, Hailong Li* <br>
+		<em>Hydrological Processes</em>, 2025.(<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.70255" target="_blank">Link</a>)[33] 
 	</li>
 
 
