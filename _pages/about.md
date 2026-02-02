@@ -8,11 +8,6 @@ redirect_from:
 
 **NEXUS LAB @ SYSU** < a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions >
 
-We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling. Please drop me an email with your CV and transcripts. 
-
-If you are an SYSU student interested in doing research with me, please send me an email.
-
-
   
 ## Biography   
 I am an Associate Professor at the School of Geography and Planning, Sun Yat-sen University (SYSU), where I direct the NEXUS Lab. My research focuses on understanding various environmental processes, e.g. hydrological, biogeochemical, and microbial, in the context of sea-land interactions. We are also investigating how these processes function under extreme events (e.g., typhoons, floods, storm surges) and climate change. This research aims to understand their impacts on sustainability and public health in coastal societies, ultimately providing insights to inform environmental and sustainable policymaking.
@@ -23,6 +18,10 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the Hong Kong
 1) Hydrological processes driven carbon cycle in land-sea interactions.  
 2) Machine learning-driven analysis of environmental big data (in-situ observation/remote sensing) for natural hazard prediction.  
 3) Nanotechnology on water quality monitoring.
+
+<<font color="#ff0000">HIRING</font>> We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling. Please drop me an email with your CV and transcripts. 
+
+If you are an SYSU student interested in doing research with me, please send me an email.
 
 ## News  
 * [01/2026] Join SYSU and lunch NEXUS Lab
