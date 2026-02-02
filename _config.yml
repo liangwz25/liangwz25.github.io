@@ -28,8 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
   location         : "Guangzhou, CHINA"
-  employer         : -m"Sun-Yat Sen University"
-                     "Sun-Yat Sen University"
+  employer         : "Sun-Yat Sen University"
   uri              : # URL
   email            : "liangwzh28@mail.sysu.edu.cn" 
 
