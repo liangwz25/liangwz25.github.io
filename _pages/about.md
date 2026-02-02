@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-<b>NEXUS LAB @ SYSU<b>  <b>|<b>  a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions
+<b>NEXUS LAB @ SYSU<b>  <b>|<b>  a *<b>N<b>*iche for *<b>EX<b>*ploring *<b>U<b>*rbanizing and *<b>S<b>*ea-Land interactions
 
   
 ## Biography   
