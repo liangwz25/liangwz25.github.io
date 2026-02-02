@@ -6,8 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-**-------------------------------------- Welcome To NEXUS LAB @ SYSU --------------------------------------**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions 
+**NEXUS LAB @ SYSU** < a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions >
 
 We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling. Please drop me an email with your CV and transcripts. 
 
