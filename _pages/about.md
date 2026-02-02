@@ -10,9 +10,9 @@ redirect_from:
 
   
 ## Biography   
-I am an Associate Professor at the School of Geography and Planning, Sun Yat-sen University (SYSU), where I direct the NEXUS Lab. My research focuses on understanding various environmental processes, e.g. hydrological, biogeochemical, and microbial, in the context of sea-land interactions. We are also investigating how these processes function under extreme events (e.g., typhoons, floods, storm surges) and climate change. This research aims to understand their impacts on sustainability and public health in coastal societies, ultimately providing insights to inform environmental and sustainable policymaking.
+I am an Associate Professor at the School of Geography and Planning, <font color="#0000ff">Sun Yat-sen University (SYSU)</font>, where I direct the NEXUS Lab. My research focuses on understanding various environmental processes, e.g. hydrological, biogeochemical, and microbial, in the context of sea-land interactions. We are also investigating how these processes function under extreme events (e.g., typhoons, floods, storm surges) and climate change. This research aims to understand their impacts on sustainability and public health in coastal societies, ultimately providing insights to inform environmental and sustainable policymaking.
 
-Before joining SYSU, I served as a Postdoctoral Research Fellow at the Hong Kong University of Science and Technology (HKUST) and at Trent University in Canada. I earned my Ph.D. in Hydrology from The University of Hong Kong in 2022, M.Sc in Marine Remote Sensing from The University of Chinese Academy of Sciences (SCSIO) in 2016, and a B.Sci in Environmental Science from Sun Yat-sen University in 2013.
+Before joining SYSU, I served as a Postdoctoral Research Fellow at the <font color="#0000ff">Hong Kong University of Science and Technology (HKUST)</font> and at <font color="#0000ff">Trent University</font> in Canada. I earned my Ph.D. in Hydrology from <font color="#0000ff">The University of Hong Kong in 2022, M.Sc in Marine Remote Sensing from <font color="#0000ff">The University of Chinese Academy of Sciences (SCSIO)</font> in 2016, and a B.Sci in Environmental Science from <font color="#0000ff">Sun Yat-sen University</font> in 2013.
 
 ## Main interest  
 1) Hydrological processes driven carbon cycle in land-sea interactions.  
