@@ -14,7 +14,7 @@ I am an Associate Professor at the <a href="https://gp.sysu.edu.cn/">School of G
 
 Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="https://oces.hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a> and at <a href="https://www.trentu.ca/">Trent University</a> in Canada. I earned my Ph.D. in Hydrology from <a href="https://www.earthsciences.hku.hk/">The University of Hong Kong</a> in 2022, M.Sc in Marine Remote Sensing from <a href="http://www.scsio.ac.cn/">The University of Chinese Academy of Sciences (SCSIO)</a> in 2016, and a B.Sci in Environmental Science from <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> in 2013.
 
-## Main interest  
+## Main interests  
 1) Hydrological processes driven carbon cycle in land-sea interactions.  
 2) Machine learning-driven analysis of environmental big data (in-situ observation/remote sensing) for natural hazard prediction.  
 3) Nanotechnology on water quality monitoring.
@@ -25,7 +25,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 > If you are a SYSU student interested in doing research with me, please also send me an email.
 
 ## News
-<div style="height: 240px; overflow: auto;">
+<div style="height: 200px; overflow: auto;">
 <ul>
 	<li>
 		[01/2026] Join SYSU and start up NEXUS LAB
@@ -59,6 +59,27 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 ### Before 2020
 <ul>
+	<li>
+		<font color="#00008B">Phytoplankton size structure in the western South China Sea under the influence of a ‘jet-eddy system’</font> <br>
+		<b>Wenzhao Liang</b>, Danling Tang, Xin Luo<br>
+		<em>Journal of Marine Systems</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0924796317303676" target="_blank">Link-6</a>)
+	</li>
+	
+	<li>
+		<font color="#00008B">Phytoplankton size structure in the western South China Sea under the influence of a ‘jet-eddy system’</font> <br>
+		<b>Wenzhao Liang</b>, Danling Tang, Xin Luo<br>
+		<em>Journal of Marine Systems</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0924796317303676" target="_blank">Link-6</a>)
+	</li>
+	<li>
+		<font color="#00008B">Seasonality of nutrient flux and biogeochemistry in an intertidal aquifer</font> <br>
+		Yi Liu, <b>Wenzhao Liang</b>, Jiu Jimmy Jiao<br>
+		<em>Journal of Geophysical Research: Oceans</em>, 2018. (<a href="https://link.springer.com/article/10.1007/s12237-017-0335-x" target="_blank">Link-5</a>)
+	</li>
+	<li>
+		<font color="#00008B">Tidal fluctuation influenced physicochemical parameter dynamics in coastal groundwater mixing zone</font> <br>
+		Yi Liu, Jiu Jimmy Jiao, <b>Wenzhao Liang</b><br>
+		<em>Estuaries and Coasts</em>, 2018. (<a href="https://link.springer.com/article/10.1007/s12237-017-0335-x" target="_blank">Link-4</a>)
+	</li>
 	<li>
 		<font color="#00008B">Evaluation of water residence time, submarine groundwater discharge, and maximum new production supported by groundwater borne nutrients in a coastal upwelling shelf system</font> <br>
 		Xin Luo, Jiu Jimmy Jiao*, Yi Liu, Xiaolang Zhang, <b>Wenzhao Liang</b>, Danling Tang <br>
