@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-|  **NEXUS LAB @ SYSU**  **|**  a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions
+**NEXUS LAB @ SYSU**  **|**  a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions
 
   
 ## Biography   
@@ -19,7 +19,8 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <font col
 2) Machine learning-driven analysis of environmental big data (in-situ observation/remote sensing) for natural hazard prediction.  
 3) Nanotechnology on water quality monitoring.
 
-**<font color="#ff0000"> **HIRING** </font>** > We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling at coast. Please drop me an email with your CV and publications (if any). 
+**<font color="#ff0000"> **HIRING** </font>**
+> We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling at coast. Please drop me an email with your CV and publications (if any). 
 
 > If you are a SYSU student interested in doing research with me, please also send me an email.
 
