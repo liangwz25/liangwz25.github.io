@@ -64,7 +64,6 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 		Xin Luo, Jiu Jimmy Jiao*, Yi Liu, Xiaolang Zhang, <b>Wenzhao Liang</b>, Danling Tang <br>
 		<em>Journal of Geophysical Research: Oceans</em>, 2018. (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JC013398" target="_blank">Link-3</a>)
 	</li>
-	
 	<li>
 		<font color="#00008B">Tidal pumping‐induced nutrients dynamics and biogeochemical implications in an intertidal aquifer</font> <br>
 		Yi Liu, Jiu Jimmy Jiao*, <b>Wenzhao Liang</b>, Xin Luo<br>
