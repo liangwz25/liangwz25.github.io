@@ -39,7 +39,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 	<li>
 		[01/2026] Join SYSU and lunch NEXUS Lab.
 	</li>
-
+</ul>
 
 ## Publications  
 
