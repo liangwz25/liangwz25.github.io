@@ -59,9 +59,6 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 ### Before 2020
 <ul>
-
-
-	
 	<li>
 		<font color="#00008B">Evaluation of water residence time, submarine groundwater discharge, and maximum new production supported by groundwater borne nutrients in a coastal upwelling shelf system</font> <br>
 		Xin Luo, Jiu Jimmy Jiao*, Yi Liu, Xiaolang Zhang, <b>Wenzhao Liang</b>, Danling Tang <br>
