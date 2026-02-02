@@ -25,29 +25,20 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 > If you are a SYSU student interested in doing research with me, please also send me an email.
 
 ## News  
-<div class="scroll-box">
-  <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quaerat ipsam fugit fugiat cupiditate asperiores neque libero natus atque, suscipit error esse inventore numquam molestiae quas laborum eius debitis cum?
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quaerat ipsam fugit fugiat cupiditate asperiores neque libero natus atque, suscipit error esse inventore numquam molestiae quas laborum eius debitis cum?
-    ...
-  </p>
-</div>
-.scroll-box {
-    border: 1px solid #666;
-    overflow: scroll;    
-}
-
-
-* [01/2026] Join SYSU and lunch NEXUS Lab
-
-
-
-
-
-## Research Fundings  
-
-
-
+<div style="height: 240px; overflow: auto;">
+<ul>
+	<li>
+		[01/2026] Join SYSU and lunch NEXUS Lab.
+	</li>
+	<li>
+		[01/2026] Join SYSU and lunch NEXUS Lab.
+	</li>
+	<li>
+		[01/2026] Join SYSU and lunch NEXUS Lab.
+	</li>
+	<li>
+		[01/2026] Join SYSU and lunch NEXUS Lab.
+	</li>
 
 
 ## Publications  
