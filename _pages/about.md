@@ -24,24 +24,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 > If you are a SYSU student interested in doing research with me, please also send me an email.
 
-## News  
-<div style="height: 200px; overflow: auto;">
-<ul>
-	<li>
-		[01/2026] Join SYSU and lunch NEXUS Lab.
-	</li>
-	<li>
-		[01/2026] Join SYSU and lunch NEXUS Lab.
-	</li>
-	<li>
-		[01/2026] Join SYSU and lunch NEXUS Lab.
-	</li>
-</ul>
-<br>
-
-
-
-## Publications
+## Publications  
 <p><font face="Arial" size="4"><b>2025</b></font></p>
 	<ul>
 	<li>
