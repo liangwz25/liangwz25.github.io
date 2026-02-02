@@ -19,7 +19,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the Hong Kong
 2) Machine learning-driven analysis of environmental big data (in-situ observation/remote sensing) for natural hazard prediction.  
 3) Nanotechnology on water quality monitoring.
 
-<<font color="#ff0000">HIRING</font>> We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling. Please drop me an email with your CV and transcripts. 
+<font color="#ff0000"> HIRING </font>> We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling. Please drop me an email with your CV and transcripts. 
 
 If you are an SYSU student interested in doing research with me, please send me an email.
 
