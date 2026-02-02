@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEXUS LAB @ SYSU** < a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions >
+**NEXUS LAB @ SYSU** **/** a ***N***iche for ***EX***ploring ***U***rbanizing and ***S***ea-Land interactions
 
   
 ## Biography   
@@ -21,7 +21,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <font col
 
 <font color="#ff0000"> HIRING </font> > We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling. Please drop me an email with your CV and transcripts. 
 
-> If you are an SYSU student interested in doing research with me, please send me an email.
+> If you are a SYSU student interested in doing research with me, please also send me an email.
 
 ## News  
 * [01/2026] Join SYSU and lunch NEXUS Lab
