@@ -96,11 +96,8 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 <p><center>
     <div id="clustrmaps-widget" style="width:40%">
-      		<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=pT8r_ZMBBdBPTv7KnlTCiBDylmHyi1qsWdPpY_tIlqY'></script>
-      		<noscript><a href='https://clustrmaps.com/site/xfn5'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=pT8r_ZMBBdBPTv7KnlTCiBDylmHyi1qsWdPpY_tIlqY'/></a></noscript>
-
-<!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=UexA6kPrFZuJeB69B5BZyS063R_EhdDx6FAwAYiub2U&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
-      		<noscript><a href='https://clustrmaps.com/site/1aa2l'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=UexA6kPrFZuJeB69B5BZyS063R_EhdDx6FAwAYiub2U&co=2d78ad&ct=ffffff'/></a></noscript> -->
+      	<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=jbPGWZunjeF81XBL0n0yB1oNvSYS3NqBUVaG96FglMw&cl=ffffff&w=a"></script>	
+		<noscript><a href="https://mapmyvisitors.com/web/1c2a3"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=jbPGWZunjeF81XBL0n0yB1oNvSYS3NqBUVaG96FglMw&cl=ffffff" /></a></noscript>
 	</div>        
 </center></p>
 
