@@ -40,19 +40,54 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 	<li>
 		<font color="#00008B">Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics</font> <br>
 		Zekun Zhang, Peng Yao, Bin Zhao, Yuanbi Yi, Zhao Liang Chen, Chen Zhao, Ruanhong Cai, <b>Wenzhao Liang </b>, Chenglong Wang, Ding He*<br>
-		<em>Water Research</em>, 2025. (<a href="https://www.sciencedirect.com/science/article/pii/S0043135425021402" target="_blank">Link-33</a>)
+		<em>Water Research</em>, 2025.(Nature Index Journal) (<a href="https://www.sciencedirect.com/science/article/pii/S0043135425021402" target="_blank">Link-31</a>)
 	</li>
 	<li>
 		<font color="#00008B">Characterisation of Groundwater Flow in the Deltaic Aquifer‐Aquitard System</font> <br>
 		Shengchao Yu, Jiu Jimmy Jiao, Xin Luo, Xuejing Wang, Jinchao Zuo, <b>Wenzhao Liang</b>, Meiqing Lu, Hailong Li* <br>
-		<em>Hydrological Processes</em>, 2025.(<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.70255" target="_blank">Link-32</a>)
+		<em>Hydrological Processes</em>, 2025.(<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.70255" target="_blank">Link-30</a>)
+	</li>
+	<li>
+		<font color="#00008B">Distinguishing the impact of river discharge and submarine groundwater discharge on phytoplankton community in coastal water</font> <br>
+		<b>Wenzhao Liang</b>, Xin Luo, Meiqing Lu, Yurong Song, Yi Liu, Zhao Liang Chen, Ding He, Jiu Jimmy Jiao* <br>
+		<em>Water Research</em>, 2025.(Nature Index Journal)(<a href="https://www.sciencedirect.com/science/article/abs/pii/S0043135425012618" target="_blank">Link-29</a>)
+	</li>	
+	<li>
+		<font color="#00008B">The role of dissolved organic matter in fuelling coastal hypoxia: Identifying key molecules and drivers</font> <br>
+		<b>Wenzhao Liang</b>, Penghui Li*, Yifei Pan, Zhe-Xuan Zhang, Yuanbi Yi, Zhao Liang Chen, Chen Zhao, Ruanhong Cai, Zekun Zhang, Christian Lønborg, Jianping Gan, Ding He* <br>
+		<em>Water Research</em>, 2025.(Nature Index Journal)(<a href="https://www.sciencedirect.com/science/article/abs/pii/S0043135425011170" target="_blank">Link-28</a>)
+	</li>
+	<li>
+		<font color="#00008B">Enhancing tree-based machine learning for chlorophyll-a prediction in coastal seawater through spatiotemporal feature integration</font> <br>
+		Tongcun Liu†, Guochun Yu†, Hoi Yan Kwok, Runze Xue, Ding He*, <b>Wenzhao Liang</b>* <br>
+		<em>Marine Environmental Research</em>, 2025.(<a href="https://www.sciencedirect.com/science/article/abs/pii/S0141113625002272" target="_blank">Link-27</a>)
+	</li>
+	<li>
+		<font color="#00008B">Breaking the Technical Barrier for High Spatial Resolution Monitoring: A Novel Approach to Multi-Level Groundwater Monitoring System Development</font> <br>
+		<b>Wenzhao Liang</b>, Jiu Jimmy Jiao*, Yi Liu, Shengchao Yu, Kin Bong Eddie Ho, Xin Luo, John A Cherry <br>
+		<em>ACS ES&T Water</em>, 2025.(<a href="https://pubs.acs.org/doi/full/10.1021/acsestwater.4c01227" target="_blank">Link-26</a>)
+	</li>
+	<li>
+		<font color="#00008B">Revealing the mobilization and age of estuarine dissolved organic matter during floods using radiocarbon and molecular fingerprints</font> <br>
+		Zhao Liang Chen, Yuanbi Yi, Ruanhong Cai, Zhe-Xuan Zhang, <b>Wenzhao Liang</b>, Wenjing Fu, Penghui Li, Kai Wang, Lixin Zhang, Kejun Dong, Si-Liang Li, Sheng Xu, Ding He* <br>
+		<em>Water Research</em>, 2025.(Nature Index Journal)(<a href="https://www.sciencedirect.com/science/article/abs/pii/S0043135424017986" target="_blank">Link-25</a>)
+	</li>
+	<li>
+		<font color="#00008B">Molecular fingerprints of sedimentary dissolved organic matter in mangroves: Importance to blue carbon sequestration</font> <br>
+		Zhao Liang Chen, Zhe-Xuan Zhang, Ruanhong Cai, Yuanbi Yi, <b>Wenzhao Liang</b>, Peter I Macreadie, Christian J Sanders, Shing Yip Lee, Faming Wang, Ding He* <br>
+		<em>Chemical geology</em>, 2025. (<a href="https://www.sciencedirect.com/science/article/abs/pii/S00092541240057585" target="_blank">Link-24</a>)
+	</li>	
+	<li>
+		<font color="#00008B">Decadal scale phytoplankton species miniaturization in subtropical coastal waters</font> <br>
+		Zhimeng Xu, Xiaodong Zhang, Mingjue Li, <b>Wenzhao Liang</b>, Yu Ma, Lixia Deng, Jiawei Chen, Kailin Liu, Hongbin Liu* <br>
+		<em>The ISME Journal</em>, 2025.(Nature Index Journal) (<a href="https://academic.oup.com/ismej/article/19/1/wraf257/8329235" target="_blank">Link-23</a>)
+	</li>
+	<li>
+		<font color="#00008B">Contrasting diversity patterns between microeukaryotic and prokaryotic communities in cold-seep sediments</font> <br>
+		Zhimeng Xu, Jiawei Chen, <b>Wenzhao Liang</b>, Zhao Liang Chen, Wenxue Wu, Xiaomin Xia, Bingzhang Chen, Ding He, Hongbin Liu* <br>
+		<em>ISME communications</em>, 2025.(<a href="https://academic.oup.com/ismecommun/article/5/1/ycaf002/7945616" target="_blank">Link-22</a>)
 	</li>
 </ul>
-
-
-### 2025
-
-
 
 
 ### 2024
