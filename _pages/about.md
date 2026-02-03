@@ -94,7 +94,6 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 </ul>
 
 ## Students
-<h2>Students</h2>
 <b>Tutored students</b>
 	<br>	
 	<table style="border-spacing:2px">
@@ -103,7 +102,10 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 		<tr><td>Hoi Yan, KWOK (Mphil Studentat HKUST,2024-)</td></tr>		
 		<tr><td>Teya Helae (BSc Student at Trent Unveristy,2022-)</td></tr>		
 		
-	<b>Alumni:</b>	
+<b>Alumni</b>
+	<br>	
+	<table style="border-spacing:2px">
+	<tbody>
 		<tr><td>Guochun Yu (2024 MSc)(MSc at Zhejiang A&F University --> UAV Monitoring Industry)</td></tr>	
 		<tr><td>Shibo Shan (2024 MSc program)(MSc at HKUST --> PhD at UCAS)</td></tr>	
 	</tbody>
