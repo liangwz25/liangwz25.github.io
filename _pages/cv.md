@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
+## Work experience
 * Trent University (2025)
   * School of Environment
   * Postdoctoral Fellow
@@ -21,8 +20,7 @@ Work experience
   * Postdoctoral Fellow
   * Supervisor: Prof. Ding HE (<a href="https://hkustdinghe.github.io/">Homepage</a>)
 
-Education
-======
+## Education
 * Ph.D in Hydrogeology and Ecology, The University of Hong Kong, 2022  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Jiu Jimmy JIAO (<a href="https://hydrogeology.hku.hk/">Homepage</a>)
 * M.S. in Remote Sensing (Oceanography), University of Chinese Academey of Science, 2016  
@@ -30,8 +28,7 @@ Education
 * B.S. in Environmental Science, Sun-Yat Sen University, 2013  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor : Prof. Yisheng PENG & Prof. Jiatang HU (Final Year Project) 
   
-Publications
-======
+## Publications
 ### 2025
 <ul>
 	<li>
@@ -212,20 +209,9 @@ Publications
 		<em>Applied Geochemistry</em>, 2017.(<a href="https://www.sciencedirect.com/science/article/pii/S0883292717302755" target="_blank">Link-1</a>)
 	</li>
 </ul>
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Academic Services
-======
+## Academic Services
 * Reviewer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Water Research/Geophysical Research Letters/Journal of Hydrology/Environemtnal Pollution/  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science of the totalenvironment/JGR-Oceans/JRG-Biogeosciences/Scientific Reports
