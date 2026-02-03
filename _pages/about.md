@@ -25,7 +25,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 > If you are a SYSU student interested in doing research with me, please also send me an email.
 
 ## News
-<div style="height: 200px; overflow: auto;">
+<div style="height: 140px; overflow: auto;">
 <ul>
 	<li>
 		[01/2026] Join SYSU and start up NEXUS LAB
@@ -93,13 +93,18 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 	</li>
 </ul>
 
-
-
-
 ## Students
-
-
-
+	<b>Tutored students</b>
+	<br>	
+	<table style="border-spacing:2px">
+	<tbody>
+	    <tr><td>Junwei Li (MSc Student at Zhejiang A&F Universit,2023-)</td></tr>
+		<tr><td>Hoi Yan, KWOK (Mphil Studentat HKUST,2024-)</td></tr>		
+		<tr><td>Teya Helae (BSc Student at Trent Unveristy,2022-)</td></tr>		
+		
+	<b>Alumni:</b>	
+		<tr><td>Guochun Yu (2024 MSc)(MSc at Zhejiang A&F University --> UAV Monitoring Industry)</td></tr>	
+		<tr><td>Shibo Shan (2024 MSc program)(MSc at HKUST --> PhD at UCAS)</td></tr>	
 
 
 
