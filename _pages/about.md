@@ -58,14 +58,19 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 ### 2024
 <ul>
 	<li>
+		<font color="#00008B">Disentangling external loadings, hydrodynamics and biogeochemical controls on the fate of nitrate in a coastal embayment</font> <br>
+		<b>Wenzhao Liang</b>, Xin Luo, Yi Liu, Jiu Jimmy Jiao, Meiqing Lu, Zhenwei Yan, Xingxing Kuang<br>
+		<em>Journal of Hazardous Materials</em>, 2024.(<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304389424020442" target="_blank">Link-21</a>)
+	</li>		
+	<li>
 		<font color="#00008B">Unraveling the impact of Spartina alterniflora invasion on greenhouse gas production and emissions in coastal saltmarshes: New insights from dissolved organic matter characteristics and surface-porewater interactions</font> <br>
 		<b>Wenzhao Liang</b>, Xiaogang Chen, Zhao Liang Chen, Peiyuan Zhu, Zhiyong Huang, Jiangshan Li, Yuntao Wang, Ling Li, Ding He<br>
-		<em>Environmental Science & Technology</em>, 2024.(Nature Index Journal) (<a href="https://www.sciencedirect.com/science/article/pii/S0048969723057650" target="_blank">Link-16</a>)
+		<em>Water Research</em>, 2024.(Nature Index Journal) (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0043135424010200" target="_blank">Link-20</a>)
 	</li>	
 	<li>
 		<font color="#00008B">Aggravating pollution of emerging aryl organophosphate esters in urban estuarine sediments of South China</font> <br>
 		Jia-Yong Lao, Guangling Huang, Rongben Wu, <b>Wenzhao Liang</b>, Shaopeng Xu, Qiong Luo, Kai Zhang, Le Jing, Linjie Jin, Yuefei Ruan*, Kenneth MY Leung*, Paul KS Lam<br>
-		<em>Environmental Science & Technology</em>, 2024.(Nature Index Journal) (<a href="https://www.sciencedirect.com/science/article/pii/S0048969723057650" target="_blank">Link-16</a>)
+		<em>Environmental Science & Technology</em>, 2024.(Nature Index Journal) (<a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.4c01646" target="_blank">Link-19</a>)
 	</li>	
 	<li>
 		<font color="#00008B">Severe flood modulates the sources and age of dissolved organic carbon in the Yangtze River Estuary</font> <br>
@@ -109,7 +114,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 	<li>
 		<font color="#00008B">Control factors on nutrient cycling in the lake water and groundwater of the Badain Jaran Desert, China</font> <br>
 		Xiaolang Zhang, Hailong Li, Jiu Jimmy Jiao, Xin Luo, Jinchao Zuo, Meiqing Lu, Yi Liu, <b>Wenzhao Liang</b>, Xingxing Kuang<br>
-		<em>Journal of Hydrologyh</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0022169421004558" target="_blank">Link-12</a>)
+		<em>Journal of Hydrology</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0022169421004558" target="_blank">Link-12</a>)
 	</li>	
 </ul>
 
@@ -175,7 +180,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 		<em>Applied Geochemistry</em>, 2017.(<a href="https://www.sciencedirect.com/science/article/pii/S0883292717302755" target="_blank">Link-1</a>)
 	</li>
 </ul>
-</br>
+
 
 
 
