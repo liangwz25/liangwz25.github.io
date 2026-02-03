@@ -101,7 +101,9 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 	    <tr><td>Junwei Li (MSc Student at Zhejiang A&F Universit,2023-)</td></tr>
 		<tr><td>Hoi Yan, KWOK (Mphil Studentat HKUST,2024-)</td></tr>		
 		<tr><td>Teya Helae (BSc Student at Trent Unveristy,2022-)</td></tr>		
-		
+	</tbody>
+	</table>
+	<br>
 <b>Alumni</b>
 	<br>	
 	<table style="border-spacing:2px">
