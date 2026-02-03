@@ -20,7 +20,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 3) Nanotechnology on water quality monitoring.
 
 **<font color="#ff0000"> **HIRING** </font>**
-> We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling at coast. Please drop me an email with your CV and publications (if any). 
+> We are looking for self-motivated Postdoc/PhD/RA/Interns, who are interested in water and carbon cycling at coast. Please drop me an email with your CV.
 
 > If you are a SYSU student interested in doing research with me, please also send me an email.
 
