@@ -105,6 +105,8 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 	<b>Alumni:</b>	
 		<tr><td>Guochun Yu (2024 MSc)(MSc at Zhejiang A&F University --> UAV Monitoring Industry)</td></tr>	
 		<tr><td>Shibo Shan (2024 MSc program)(MSc at HKUST --> PhD at UCAS)</td></tr>	
-
+	</tbody>
+	</table>
+	<br>
 
 
