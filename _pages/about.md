@@ -55,20 +55,63 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 
 
 
+### 2024
+<ul>
+	<li>
+		<font color="#00008B">Unraveling the impact of Spartina alterniflora invasion on greenhouse gas production and emissions in coastal saltmarshes: New insights from dissolved organic matter characteristics and surface-porewater interactions</font> <br>
+		<b>Wenzhao Liang</b>, Xiaogang Chen, Zhao Liang Chen, Peiyuan Zhu, Zhiyong Huang, Jiangshan Li, Yuntao Wang, Ling Li, Ding He<br>
+		<em>Environmental Science & Technology</em>, 2024.(Nature Index Journal) (<a href="https://www.sciencedirect.com/science/article/pii/S0048969723057650" target="_blank">Link-16</a>)
+	</li>	
+	<li>
+		<font color="#00008B">Aggravating pollution of emerging aryl organophosphate esters in urban estuarine sediments of South China</font> <br>
+		Jia-Yong Lao, Guangling Huang, Rongben Wu, <b>Wenzhao Liang</b>, Shaopeng Xu, Qiong Luo, Kai Zhang, Le Jing, Linjie Jin, Yuefei Ruan*, Kenneth MY Leung*, Paul KS Lam<br>
+		<em>Environmental Science & Technology</em>, 2024.(Nature Index Journal) (<a href="https://www.sciencedirect.com/science/article/pii/S0048969723057650" target="_blank">Link-16</a>)
+	</li>	
+	<li>
+		<font color="#00008B">Severe flood modulates the sources and age of dissolved organic carbon in the Yangtze River Estuary</font> <br>
+		Zhao Liang Chen, Yuanbi Yi, Wenjing Fu, <b>Wenzhao Liang</b>, Penghui Li, Kai Wang, Lixin Zhang, Kejun Dong, Si-Liang Li, Sheng Xu, Ding He<br>
+		<em>Environmental Research</em>, 2020. (<a href="https://www.sciencedirect.com/science/article/pii/S0013935124009447" target="_blank">Link-18</a>)
+	</li>	
+	<li>
+		<font color="#00008B">Hypoxia diversifies molecular composition of dissolved organic matter and enhances preservation of terrestrial organic carbon in the Yangtze River Estuary</font> <br>
+		Penghui Li, <b>Wenzhao Liang</b>, Yuping Zhou, Yuanbi Yi, Chen He, Quan Shi, Ding He*<br>
+		<em>Science of The Total Environment</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969723062885" target="_blank">Link-17</a>)
+	</li>	
+</ul>
+
+
+### 2023
+<ul>
+    <li>
+		<font color="#00008B">Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters</font> <br>
+		<b>Wenzhao Liang</b>, Tongcun Liu, Yuntao Wang, Jiu Jimmy Jiao, Jianping Gan, Ding He*<br>
+		<em>Science of the Total Environment</em>, 2023. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969723057650" target="_blank">Link-16</a>)
+	</li>	
+	<li>
+		<font color="#00008B">Seasonal changes of dissolved organic matter chemistry and its linkage with greenhouse gas emissions in saltmarsh surface water and porewater interactions</font> <br>
+		<b>Wenzhao Liang</b>†, Xiaogang Chen†, Chen Zhao, Ling Li*, Ding He*<br>
+		<em>Water Research</em>, 2023. (Nature Index Journal) (<a href="https://www.sciencedirect.com/science/article/pii/S0043135423010229" target="_blank">Link-15</a>)
+	</li>	
+	<li>
+		<font color="#00008B">Evolutionary history of the groundwater system in the Pearl River Delta (China) during the Holocene</font> <br>
+		Shengchao Yu, Jiu Jimmy Jiao, Xin Luo, Hailong Li, Xuejing Wang, Xiaolang Zhang, Meng Yao, Jinchao Zuo, <b>Wenzhao Liang</b>, Meiqing Lu<br>
+		<em>Geology</em>, 2023. (Nature Index Journal)(<a href="https://pubs.geoscienceworld.org/gsa/geology/article/51/5/481/621093/Evolutionary-history-of-the-groundwater-system-in" target="_blank">Link-14</a>)
+	</li>	
+</ul>
+
 ### 2021
 <ul>
     <li>
 		<font color="#00008B">Inorganic carbon and alkalinity biogeochemistry and fluxes in an intertidal beach aquifer: Implications for ocean acidification </font> <br>
 		Yi Liu, Jiu Jimmy Jiao, <b>Wenzhao Liang</b>, Isaac R Santos, Xingxing Kuang, Clare E Robinson<br>
-		<em>Journal of Hydrology</em>, 2020. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969720338110" target="_blank">Link-11</a>)
+		<em>Journal of Hydrology</em>, 2020. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969720338110" target="_blank">Link-13</a>)
 	</li>	
 	<li>
 		<font color="#00008B">Control factors on nutrient cycling in the lake water and groundwater of the Badain Jaran Desert, China</font> <br>
 		Xiaolang Zhang, Hailong Li, Jiu Jimmy Jiao, Xin Luo, Jinchao Zuo, Meiqing Lu, Yi Liu, <b>Wenzhao Liang</b>, Xingxing Kuang<br>
-		<em>Journal of Hydrologyh</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0022169421004558" target="_blank">Link-10</a>)
+		<em>Journal of Hydrologyh</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0022169421004558" target="_blank">Link-12</a>)
 	</li>	
 </ul>
-</br>
 
 ### 2020
 <ul>
@@ -83,7 +126,6 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 		<em>Water Resources Research</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969719348892" target="_blank">Link-10</a>)
 	</li>	
 </ul>
-</br>
 
 ### Before 2020
 <ul>
@@ -133,7 +175,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 		<em>Applied Geochemistry</em>, 2017.(<a href="https://www.sciencedirect.com/science/article/pii/S0883292717302755" target="_blank">Link-1</a>)
 	</li>
 </ul>
-
+</br>
 
 
 
