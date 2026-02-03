@@ -79,12 +79,7 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 	<li>
 		<font color="#8bdaf7">The dynamics of dissolved inorganic nitrogen species mediated by fresh submarine groundwater discharge and their impact on phytoplankton community structure</font> <br>
 		<b>Wenzhao Liang</b>, Yi Liu, Jiu Jimmy Jiao*, Xin Luo<br>
-		<em>Water Resources Research</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969719348892" target="_blank">Link-10</a>)
-	</li>	
-	<li>
-		<font color="#8bdaf7">The dynamics of dissolved inorganic nitrogen species mediated by fresh submarine groundwater discharge and their impact on phytoplankton community structure</font> <br>
-		<b>Wenzhao Liang</b>, Yi Liu, Jiu Jimmy Jiao*, Xin Luo<br>
-		<em>Water Resources Research</em>, 2018. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969719348892" target="_blank">Link-9</a>)
+		<em>Science of the Total Environment</em>, 2020. (<a href="https://www.sciencedirect.com/science/article/pii/S0048969719348892" target="_blank">Link-9</a>)
 	</li>	
 	<li>
 		<font color="#8bdaf7">Phytoplankton size structure in the western South China Sea under the influence of a ‘jet-eddy system’</font> <br>
