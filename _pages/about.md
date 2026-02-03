@@ -94,7 +94,8 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 </ul>
 
 ## Students
-	<b>Tutored students</b>
+<h2>Students</h2>
+<b>Tutored students</b>
 	<br>	
 	<table style="border-spacing:2px">
 	<tbody>
