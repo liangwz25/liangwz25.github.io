@@ -93,25 +93,20 @@ Before joining SYSU, I served as a Postdoctoral Research Fellow at the <a href="
 	</li>
 </ul>
 
-## Students
-<b>Tutored students</b>
-	<br>	
-	<table style="border-spacing:2px">
-	<tbody>
-	    <tr><td>Junwei Li (MSc Student at Zhejiang A&F Universit,2023-)</td></tr>
-		<tr><td>Hoi Yan, KWOK (Mphil Studentat HKUST,2024-)</td></tr>		
-		<tr><td>Teya Helae (BSc Student at Trent Unveristy,2022-)</td></tr>		
-	</tbody>
-	</table>
-	<br>
-<b>Alumni</b>
-	<br>	
-	<table style="border-spacing:2px">
-	<tbody>
-		<tr><td>Guochun Yu (2024 MSc)(MSc at Zhejiang A&F University --> UAV Monitoring Industry)</td></tr>	
-		<tr><td>Shibo Shan (2024 MSc program)(MSc at HKUST --> PhD at UCAS)</td></tr>	
-	</tbody>
-	</table>
-	<br>
+<div id="footer">
+	<div id="footer-text"></div>
+</div>
+	<p><center>
+      	<div id="clustrmaps-widget" style="width:40%">
+      		<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=pT8r_ZMBBdBPTv7KnlTCiBDylmHyi1qsWdPpY_tIlqY'></script>
+      		<noscript><a href='https://clustrmaps.com/site/xfn5'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=pT8r_ZMBBdBPTv7KnlTCiBDylmHyi1qsWdPpY_tIlqY'/></a></noscript>
+
+<!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=UexA6kPrFZuJeB69B5BZyS063R_EhdDx6FAwAYiub2U&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+      		<noscript><a href='https://clustrmaps.com/site/1aa2l'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=UexA6kPrFZuJeB69B5BZyS063R_EhdDx6FAwAYiub2U&co=2d78ad&ct=ffffff'/></a></noscript> -->
+	</div>        
+      </center></p>
+
+
+</div>
 
 
