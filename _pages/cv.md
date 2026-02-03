@@ -9,31 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Hydrogeology and Ecology, The University of Hong Kong, 2022  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Jiu Jimmy JIAO
-* M.S. in Remote Sensing (Oceanography), University of Chinese Academey of Science, 2016  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Danling TANG
-* B.S. in Environmental Science, Sun-Yat Sen University, 2013  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor : Prof. Yisheng PENG & Prof. Jiatang HU (Final Year Project) 
-  
 Work experience
 ======
 * Trent University (2025)
   * School of Environment
   * Postdoctoral Fellow
-  * Supervisor: Prof. Andrew J. Tanentzap
+  * Supervisor: Prof. Andrew J. Tanentzap (<a href="https://www.ecosystemchange.com/">Homepage</a>)
 
 * Hong Kong University of Science and Technology (2022-2025) 
   * Department of Ocean Science (OCES)
   * Postdoctoral Fellow
-  * Supervisor: Professor Ding HE
+  * Supervisor: Prof. Ding HE (<a href="https://hkustdinghe.github.io/">Homepage</a>)
 
-
+Education
+======
+* Ph.D in Hydrogeology and Ecology, The University of Hong Kong, 2022  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Jiu Jimmy JIAO (<a href="https://hydrogeology.hku.hk/">Homepage</a>)
+* M.S. in Remote Sensing (Oceanography), University of Chinese Academey of Science, 2016  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Danling TANG (<a href="http://www.lingzis.com/reseachgroups.htm">Homepage</a>)
+* B.S. in Environmental Science, Sun-Yat Sen University, 2013  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor : Prof. Yisheng PENG & Prof. Jiatang HU (Final Year Project) 
+  
 Publications
 ======
- ### 2025
+### 2025
 <ul>
 	<li>
 		<font color="#00008B">Dissolved organic matter in surface sediments along a river-to-ocean continuum: Molecular characteristics and sediment–water exchange dynamics</font> <br>
